@@ -1,3 +1,3 @@
-# web--programming-lab-240303
+# web-lab-240303
 GCET-K
 
